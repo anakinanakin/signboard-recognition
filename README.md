@@ -1,6 +1,6 @@
 # signboard-recognition
 
-### [Demo](https://www.youtube.com/watch?v=2oMdv0PHpEc)
+### [Demo Video](https://www.youtube.com/watch?v=2oMdv0PHpEc)
 
 ### unity-signboard-reco
 Use mobile cameras to effectively recognize signboards on streets and show information about the store with Augmented Reality texts.
